@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
 import { RaceChartDataService } from './race-chart-data.service';
 import { RaceChartData, ColorSchema } from '@data-2-chart/data-2-chart';
-import '@data-2-chart/data-2-chart/dist/charts/race-bar-chart';
+// import '@data-2-chart/data-2-chart/dist/charts/race-bar-chart';
 
 @Component({
   selector: 'app-root',
